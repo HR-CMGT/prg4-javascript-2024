@@ -11,7 +11,10 @@ Oefening Modern Web Development
   - Voor PHPStorm. Klik op "Get from VCS". Plak de git link bij "URL"
 - Kies een map die je ook via localhost kan openen, bijvoorbeeld `xampp/htdocs/mijnproject`.
 - Jouw IDE haalt nu het startproject op en opent het automatisch.
-- Typ `npm install` en `npm run dev` in de terminal in VS Code.
+- Typ `npm install` om ***Vite*** te installeren.
+- Om excalibur toe te voegen voer je `npm install excalibur` uit.
+- Typ `npm run dev` om de development server te starten.
+
 
 [🔥 Bekijk het instructie filmpje!](https://youtu.be/UIVpe4L5_P4)
 
